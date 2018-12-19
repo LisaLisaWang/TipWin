@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TipWin">
+    <output-path>$PROJECT_DIR$/out/artifacts/TipWin</output-path>
+    <root id="archive" name="TipWin.jar">
+      <element id="module-output" name="TipWin" />
+    </root>
+  </artifact>
+</component>
